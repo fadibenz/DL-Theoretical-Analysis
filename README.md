@@ -7,7 +7,7 @@ This is a meta-repository that includes theoratical experiments on various techn
 - [Dropout in Linear regression is a ridge regularization](#dropout-in-linear-regression-is-a-ridge-regularization)
 ---
 
-## 📈 :
+## 📈 Techniques & Analysis:
 
 ### Momentum acceleration in Linear Regression:
 
