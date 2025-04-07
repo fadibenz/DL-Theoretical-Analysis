@@ -5,6 +5,7 @@ This is a meta-repository that includes theoratical experiments on various techn
 ## 📌 Table of Contents
 - [Momentum acceleration in Linear Regression](#momentum-acceleration-in-linear-regression)
 - [Dropout in Linear regression is a ridge regularization](#dropout-in-linear-regression-is-a-ridge-regularization)
+- [How Does Pruning Work](#how-does-pruning-work)
 ---
 
 ## 📈 Techniques & Analysis:
@@ -23,3 +24,8 @@ This is a meta-repository that includes theoratical experiments on various techn
 
 ---
 
+### How Does Pruning Work:
+
+- 📂 **Project Repo:** [Pruning](https://github.com/fadibenz/Pruning)
+- 📝 **Description:**  This notebbok goes through implementing both fine-grained and channel prunning from scratch to understand the mechanics and includes a small comaparision between the two, in addition to a philosophical understanding of how fine-grained pruning can lead to regularization by amplyfying the implicit bias of GD.
+---
